@@ -1,0 +1,9 @@
+<config>
+  <modules>
+    <Prod_Like>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Prod_Like>
+  </modules>
+</config>
+
